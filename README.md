@@ -77,19 +77,12 @@ Furthermore, this project could also serve as a starting point for new features,
 The code has been refactored, and now in the "refactor" folder, you can find all configurations in one place.
 Additionally, it has been integrated with a graphical interface, as initially desired in the project.
 
-### **Configuration Menu**  
-<img width="594" height="787" alt="image" src="https://github.com/user-attachments/assets/c832e807-d620-4d5f-b201-6e6c6604fa34" />
+## Preview
 
-  
-
-### **Project in Action**  
-<img width="596" height="775" alt="image" src="https://github.com/user-attachments/assets/b475ee0a-2ece-45bb-a925-6f1bb0a853d6" />
-
-  
-
-### **Example of Returned Command**  
 <p align="center">
-  <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/306f0b62-3803-40b5-bec1-a6866745a78f" />
+  <img src="https://github.com/user-attachments/assets/67df4d9e-3286-4f77-b351-7f7c43cccba8" width="300" />
+  <img src="https://github.com/user-attachments/assets/b475ee0a-2ece-45bb-a925-6f1bb0a853d6" width="300" />
+  <img src="https://github.com/user-attachments/assets/306f0b62-3803-40b5-bec1-a6866745a78f" width="300" />
 </p>
 
 <img width="1506" height="900" alt="image" src="https://github.com/user-attachments/assets/31a81d70-be53-4ff5-abc0-b012dd72da6a" />
