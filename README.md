@@ -78,17 +78,21 @@ The code has been refactored, and now in the "refactor" folder, you can find all
 Additionally, it has been integrated with a graphical interface, as initially desired in the project.
 
 ### **Configuration Menu**  
-![Configuration Menu](https://github.com/user-attachments/assets/28efe1bf-2d12-4e6c-9244-1f2fd442e132)
+<img width="594" height="787" alt="image" src="https://github.com/user-attachments/assets/c832e807-d620-4d5f-b201-6e6c6604fa34" />
+
   
 
 ### **Project in Action**  
-![Project in Action](https://github.com/user-attachments/assets/83e4808c-a206-40f2-b82a-f2e67b0ba51f)
+<img width="596" height="775" alt="image" src="https://github.com/user-attachments/assets/b475ee0a-2ece-45bb-a925-6f1bb0a853d6" />
+
   
 
 ### **Example of Returned Command**  
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/11b9eb6d-9ce0-4d0d-938a-81c810d1d1af" alt="Example of Returned Command" />
+  <img width="590" height="770" alt="image" src="https://github.com/user-attachments/assets/306f0b62-3803-40b5-bec1-a6866745a78f" />
 </p>
+
+<img width="1506" height="900" alt="image" src="https://github.com/user-attachments/assets/31a81d70-be53-4ff5-abc0-b012dd72da6a" />
 
 
 ---
